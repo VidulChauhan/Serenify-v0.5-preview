@@ -1,7 +1,7 @@
 # Serenify - AI Mental Health Assistant
 
 A Next.js application for mental health support with AI-powered conversations and mood tracking.
-## See it live : https://preview-serenify-v015-kzmpnmtxc6zrr6kmamwj.vusercontent.net/
+See it live : https://preview-serenify-v015-kzmpnmtxc6zrr6kmamwj.vusercontent.net/
 
 ## Getting Started
 
